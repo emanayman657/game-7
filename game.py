@@ -20,4 +20,12 @@ while z<=100:
                         z=z+y
         else:
                         print("error")
-                        break
+                        break    
+
+
+
+
+
+
+
+                        
